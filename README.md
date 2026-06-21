@@ -32,7 +32,7 @@ The aim is to answer critical business questions using data-driven insights:
 ## Key Findings
 |Metric | Result |
 | --- | --- |
-| **Total Orders Analyzed | 2,316 |
+| **Total Orders Analyzed** | 2,316 |
 | **Analysis Period** | Jan - Jun 2026 |
 | **Top Sales City** | *TBD - Harare* |
 | **Average Delivery Time** | *TBD days* | 
@@ -57,9 +57,9 @@ This analysis demonstrates how Excel can be used end-to-end for business intelli
 The findings help identify top markets, optimize shipping strategies, and track H1 2026 performance.
 
 ---
-**Author**: TrinaCasey
-**Tools**: Microsoft Excel
-**Date**: 21 June 2026
+-**Author**: TrinaCasey
+-**Tools**: Microsoft Excel
+-**Date**: 21 June 2026
 
 
 
