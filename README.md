@@ -17,17 +17,17 @@ The aim is to answer critical business questions using data-driven insights:
  4. Which product category has the strongest performance?
 
 ## Tools and Skills Demonstrated
-- **Data Cleaning**: Standardized 'Order Date' and 'Shipping date' formats using 'DATEVALUE',and calculated delivery duration
+- **Data Cleaning**: Standardized 'Order Date' and 'Shipping date' formats using 'DATEVALUE', and calculated delivery duration
 - **Data Analysis**: Pivot tables, 'SUM', 'AVERAGE', 'COUNTIF', 'TEXT' for time grouping
 - **Data Visualization**: Bar Charts, Line Charts, Column Charts for trend and compariosn analysis
-- **Business Intelligence**: Translated raw data intoactionable insights for logistics and sales strategy
+- **Business Intelligence**: Translated raw data into actionable insights for logistics and sales strategy
 
 ## Dataset
 -**Source**: 'Delivery-Data-Excel.xlsx'
 -**Records**: 2316 orders + 1 header row
-**Timeframe**: 01-Jan-2026 to 30-Jun-2026
-**Key fields**: 'Order Date', 'Shipping date', 'City', 'Segment', 'Category', 'Sub-Category', 'Product Name', 'Sales', 'Shipping mode'
-**Geography**: Zimbabwe
+-**Timeframe**: 01-Jan-2026 to 30-Jun-2026
+-**Key fields**: 'Order Date', 'Shipping date', 'City', 'Segment', 'Category', 'Sub-Category', 'Product Name', 'Sales', 'Shipping mode'
+-**Geography**: Zimbabwe
 
 ## Key Findings
 |Metric | Result |
