@@ -2,8 +2,8 @@
 ### An Excel-based Analysis of Sales and Delivery Performance across major cities in Zimbabwe
 
 ## Project Overview
-This project explores 2316 delivery transactions for Office Solutions Zimbabwe from **January to June 2026**.
-Using Microsoft Excel, the analysis uncovers trends in sales ,logistics, and customer behavior across key cities including Harare, Chitungwiza, and Mutare.
+This project explores 2016 delivery transactions for Office Solutions Zimbabwe from **January to June 2026**.
+Using Microsoft Excel, the analysis uncovers trends in sales, logistics, and customer behavior across key cities including Harare, Chitungwiza, and Mutare.
 
 The aim is to answer critical business questions using data-driven insights:
 - What are the top performing product categories and cities?
@@ -11,7 +11,7 @@ The aim is to answer critical business questions using data-driven insights:
 - Which customer segments drive the most revenue?
 
  ## Business questions
- 1. Which city generated the highest total sales inH1 2026?
+ 1. Which city generated the highest total sales in H1 2026?
  2. What is the average delivery time, and which shipping mode is fastest?
  3. How do sales trends change month-to-month?
  4. Which product category has the strongest performance?
