@@ -23,11 +23,11 @@ The aim is to answer critical business questions using data-driven insights:
 - **Business Intelligence**: Translated raw data into actionable insights for logistics and sales strategy
 
 ## Dataset
--**Source**: 'Delivery-Data-Excel.xlsx'
--**Records**: 2316 orders + 1 header row
--**Timeframe**: 01-Jan-2026 to 30-Jun-2026
--**Key fields**: 'Order Date', 'Shipping date', 'City', 'Segment', 'Category', 'Sub-Category', 'Product Name', 'Sales', 'Shipping mode'
--**Geography**: Zimbabwe
+- **Source**: 'Delivery-Data-Excel.xlsx'
+-  **Records**: 2316 orders + 1 header row
+- **Timeframe**: 01-Jan-2026 to 30-Jun-2026
+- **Key fields**: 'Order Date', 'Shipping date', 'City', 'Segment', 'Category', 'Sub-Category', 'Product Name', 'Sales', 'Shipping mode'
+- **Geography**: Zimbabwe
 
 ## Key Findings
 |Metric | Result |
