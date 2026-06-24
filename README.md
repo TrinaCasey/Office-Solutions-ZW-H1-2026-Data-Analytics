@@ -34,16 +34,16 @@ The aim is to answer critical business questions using data-driven insights:
 | --- | --- |
 | **Total Orders Analyzed** | 2,316 |
 | **Analysis Period** | Jan - Jun 2026 |
-| **Top Sales City** | *TBD - Harare* |
-| **Average Delivery Time** | *TBD days* | 
-| **Fastest Shipping Mode** | *TBD - Motor Bike* |
-| **Top Product Category** | *TBD - Technology* | 
+| **Top Sales City** | *Harare* |
+| **Average Delivery Time** | *4 Days* | 
+| **Fastest Shipping Mode** | *Van* |
+| **Top Product Category** | *Technology* | 
 
 ## Dashboard Preview
 *Screenshots of Excel Charts here*
-1. 'H1-2026-Monthly-Sales-Trend.png'
-2. 'Average-Delivery-Time-by-Shipping-Mode.png'
-3. 'Top-5-Cities-by-Sales.png'
+1. '2026 H1 Monthly Sales.png'
+2. '2026 H1 Delivery Dashboard.png'
+3. '2026 H1 Sales Dashboard.png'
 
 ## How to Replicate
 1. Download 'Delivery-Data-Excel.xlsx'
